@@ -1,0 +1,15 @@
+{
+    "name": "max/mautic-api-demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maximilien Mellen",
+            "email": "mme@webmecanik.com"
+        }
+    ],
+    "require": {
+        "mautic/api-library": "^2.6",
+        "symfony/var-dumper": "^3.2"
+    }
+}
